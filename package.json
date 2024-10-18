@@ -80,8 +80,8 @@
     "xmlbuilder2": "^3.0.2"
   },
   "dependencies": {
-    "@elastic/transport": "^8.0.2",
-    "tslib": "^2.3.0"
+    "@elastic/transport": "~8.0.2",
+    "tslib": "~2.3.0"
   },
   "tap": {
     "ts": true,
